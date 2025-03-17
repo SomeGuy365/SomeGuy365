@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Im Ethan, A student from Bristol currently studying Computer Science</p>
+<p align="left">Im Ethan, a student from Bristol currently studying Computer Science</p>
 
 ###
 
